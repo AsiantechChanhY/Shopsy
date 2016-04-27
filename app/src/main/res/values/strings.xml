@@ -1,13 +1,35 @@
 <resources>
-    <string name="app_name">"Shopsy "</string>
+    <string name="app_name">Shopsy</string>
     <string name="action_settings">Settings</string>
 
     <string name="description">Description</string>
     <string name="context_menu">Context Menu</string>
 
-
     <!-- cart menu options -->
     <string name="cart_label_menu_removeitem">Remove Items</string>
     <string name="cart_label_menu_visitshop">Visit Shop</string>
+
+    <!-- Activity feed -->
+    <string name="signinfeeddata1">Sign in to favourite items,and</string>
+    <string name="signinfeeddata2">customize your own personal feed.</string>
+    <string name="takeminutefeeddata">It will just take a minute.</string>
+    <string name="signinfeeddata3">Sign In</string>
+    <string name="nofeeddata">No Feed Available</string>
+    <string name="ideadata">Looking for ideas</string>
+    <string name="seetrendingdata">See Trending items</string>
+
+    <!-- Lodaing data -->
+    <string name="loading_preparing_data1">Preparing your shopping</string>
+    <string name="loading_preparing_data2">experience</string>
+
+    <!-- No internet data -->
+    <string name="nointernet_data">No intenet connection</string>
+
+    <!-- Favourite Popup -->
+    <string name="favpopup_text1">Sign in to save favorites</string>
+    <string name="favpopup_registertext">Register</string>
+    <string name="favpopup_signintext">Sign In</string>
+    <string name="favpopup_googleplustext">Continue with Google</string>
+    <string name="favpopup_facebooktext">Continue with FaceBook</string>
 
 </resources>
