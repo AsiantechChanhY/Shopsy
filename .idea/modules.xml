@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FacebookSDK_Shopsy/FacebookSDK_Shopsy.iml" filepath="$PROJECT_DIR$/FacebookSDK_Shopsy/FacebookSDK_Shopsy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Material_ContextMenu_Library/Material_ContextMenu_Library.iml" filepath="$PROJECT_DIR$/Material_ContextMenu_Library/Material_ContextMenu_Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Material_Dialog_Library/Material_Dialog_Library.iml" filepath="$PROJECT_DIR$/Material_Dialog_Library/Material_Dialog_Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Material_FloatButton_LibraryPrem/Material_FloatButton_LibraryPrem.iml" filepath="$PROJECT_DIR$/Material_FloatButton_LibraryPrem/Material_FloatButton_LibraryPrem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shopsy.iml" filepath="$PROJECT_DIR$/Shopsy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPager_AutoSlider_Library/ViewPager_AutoSlider_Library.iml" filepath="$PROJECT_DIR$/ViewPager_AutoSlider_Library/ViewPager_AutoSlider_Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
+    </modules>
+  </component>
+</project>

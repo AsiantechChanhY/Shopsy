@@ -1,0 +1,1 @@
+include ':app', ':FacebookSDK_Shopsy', ':google-play-services_lib', ':Material_Dialog_Library', ':Material_FloatButton_LibraryPrem', ':ViewPager_AutoSlider_Library', ':Material_ContextMenu_Library'

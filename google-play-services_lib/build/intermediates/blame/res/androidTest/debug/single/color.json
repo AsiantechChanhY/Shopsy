@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/bundles/debug/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/bundles/debug/res/color/common_signin_btn_text_light.xml"
+    }
+]
