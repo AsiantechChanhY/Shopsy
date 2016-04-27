@@ -3,5 +3,11 @@
     <string name="action_settings">Settings</string>
 
     <string name="description">Description</string>
+    <string name="context_menu">Context Menu</string>
+
+
+    <!-- cart menu options -->
+    <string name="cart_label_menu_removeitem">Remove Items</string>
+    <string name="cart_label_menu_visitshop">Visit Shop</string>
 
 </resources>
