@@ -32,4 +32,13 @@
     <string name="favpopup_googleplustext">Continue with Google</string>
     <string name="favpopup_facebooktext">Continue with FaceBook</string>
 
+    <!-- Activity Tab layout -->
+    <string name="activiy_tab_noActivity_label">You don\'t have any activity yet</string>
+    <string name="activiy_tab_youritem_label">Your Items</string>
+    <string name="activiy_tab_addproducts_label">Add Products</string>
+    <string name="activiy_tab_reviews_label">Reviews</string>
+    <string name="activiy_tab_orders_label">Orders</string>
+    <string name="activiy_tab_dispute_label">Dispute</string>
+    <string name="activiy_tab_conversation_label">Conversation</string>
+
 </resources>
