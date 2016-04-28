@@ -4,6 +4,8 @@
 
     <string name="description">Description</string>
     <string name="context_menu">Context Menu</string>
+    <string name="updating">Updating</string>
+    <string name="pleasewait">Please Wait...</string>
 
     <!-- cart menu options -->
     <string name="cart_label_menu_removeitem">Remove Items</string>
@@ -171,5 +173,50 @@
     <string name="chat_popup_label_sending">Sending...</string>
     <string name="chat_popup_label_send_successfully">Sent Successfully</string>
 
+    <!-- conversation layout -->
+    <string name="label_conversation_empty">No Conversation Available</string>
+    <string name="label_conversation_morereplies">more replies</string>
+
+    <!-- Stats Tab layout -->
+    <string name="stats_label_thisMonth">This Month</string>
+    <string name="stats_label_today">Today</string>
+    <string name="stats_label_last7days">Last 7 days</string>
+    <string name="stats_label_week">Week</string>
+    <string name="stats_label_last30days">Last 30 days</string>
+    <string name="stats_label_viewall">View All</string>
+    <string name="stats_label_tax">Tax</string>
+    <string name="stats_label_favorites">Favorites</string>
+    <string name="stats_label_revenue">Revenue</string>
+    <string name="stats_label_orders">Orders</string>
+    <string name="stats_label_empty_novalue">---</string>
+    <string name="stats_label_loading">Please Wait....</string>
+
+    <!-- Detail page -->
+    <string name="detail_label_quantity">Quantity</string>
+    <string name="detail_label_size">Size</string>
+    <string name="detail_label_color">Color</string>
+    <string name="detail_label_select_size">Select Size</string>
+    <string name="detail_label_select_color">Select Color</string>
+    <string name="detail_label_reviews">Reviews</string>
+    <string name="detail_label_seeallreviews">See All Reviews</string>
+    <string name="detail_label_item_overview">Item Overview</string>
+    <string name="detail_label_item_details">Item Details</string>
+    <string name="detail_label_shipping">Shipping and Payment</string>
+    <string name="detail_label_addtocart">Add to Cart</string>
+    <string name="detail_label_addedtocart">Added to Cart</string>
+    <string name="detail_label_paymentmethod">Payment Methods</string>
+    <string name="detail_label_shippingto">Shipping To</string>
+    <string name="detail_label_cost">Cost</string>
+    <string name="detail_label_withanotheritem">With Another</string>
+    <string name="detail_label_readytoship">Ready to Ship in</string>
+    <string name="detail_label_businessdays">business days</string>
+    <string name="detail_label_policies">Policies</string>
+    <string name="detail_label_visitshop">Visit Shop</string>
+    <string name="detail_label_madeby_caps">MADE BY</string>
+    <string name="detail_label_views">Views</string>
+    <string name="detail_label_favorites">Favorites</string>
+    <string name="detail_label_listedon">This item was listed on</string>
+    <string name="detail_label_reviewby">Review by</string>
+    <string name="detail_label_askquestion">Ask a Question</string>
 
 </resources>

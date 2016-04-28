@@ -14,17 +14,18 @@ public class CustomTextView extends TextView {
 
 	 public CustomTextView(Context context, AttributeSet attrs) {
 	      super(context, attrs);
-	      init();
+	      isInEditMode();
 	  }
 
 	 public CustomTextView(Context context) {
 	      super(context);
-	      init();
+	      isInEditMode();
 	 }
 
 
 	public void init() {
 	    Typeface tf = Typeface.createFromAsset(getContext().getAssets(), "fonts/Roboto-Medium.ttf");
 	    setTypeface(tf);
+
 	}
 }
