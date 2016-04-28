@@ -48,12 +48,12 @@
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/res/layout/com_facebook_picker_checkbox.xml"
     },
     {
-        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/debug/layout/com_facebook_search_bar_layout.xml",
-        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/res/layout/com_facebook_search_bar_layout.xml"
-    },
-    {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/debug/layout/com_facebook_picker_activity_circle_row.xml",
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/res/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/debug/layout/com_facebook_search_bar_layout.xml",
+        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/res/layout/com_facebook_search_bar_layout.xml"
     },
     {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_section_header.xml",
