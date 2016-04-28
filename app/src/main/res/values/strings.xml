@@ -87,4 +87,44 @@
     <string name="manage">MANAGE</string>
     <string name="share">SHARE</string>
 
+    <!-- aad_item_photo -->
+    <string name="addphoto">Add Photo</string>
+    <string name="doublequotes">""</string>
+
+    <!-- add_item_shippingprofile -->
+    <string name="newshipingprofile">NEW SHIPPING PROFILE</string>
+    <string name="shipingprodetil">Shipping Profile Details</string>
+    <string name="tittle">tittle</string>
+    <string name="timee">time</string>
+    <string name="from">From</string>
+    <string name="dest">Dest</string>
+    <string name="cost">cost</string>
+    <string name="anothercost">another cost</string>
+    <string name="createprofile">Create a Shipping Profile</string>
+    <string name="createshipingpro">Create a shipping profile and add  it to  your listing item</string>
+
+    <!-- add_item_shipingprofile_detail -->
+    <string name="profiletitle">PROFILE TITLE</string>
+    <string name="processtime">PROCESSING TIME</string>
+    <string name="shipsfrom">SHIPS FROM</string>
+    <string name="shipsto">SHIPS TO</string>
+    <string name="destinations">DESTINATION</string>
+    <string name="shipingcost">SHIPPING COST</string>
+    <string name="wtitem">WITH ANOTHER ITEM</string>
+    <string name="addlocation">Add Location</string>
+
+    <!-- add-material -->
+    <string name="addmaterial">Add Material</string>
+    <string name="done">Done</string>
+
+    <!-- Advance Settings Page -->
+    <string name="advance_settings_label_bandwidth">Bandwidth Mode</string>
+    <string name="advance_settings_label_bandwidth_info">Load low-resoluction pictures. This will make the app load faster and use less data.</string>
+    <string name="advance_settings_label_bandwidth_select">Select Bandwidth Mode</string>
+    <string name="advance_settings_label_bandwidth_auto">Auto</string>
+    <string name="advance_settings_label_bandwidth_high">High</string>
+    <string name="advance_settings_label_bandwidth_low">Low</string>
+    <string name="advance_settings_label_bandwidth_cancel">CANCEL</string>
+    <string name="advance_settings_label_bandwidth_okay">Okay</string>
+
 </resources>

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/Material_ContextMenu_Library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/Material_ContextMenu_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/Material_ContextMenu_Library/build/intermediates/res/merged/androidTest/debug/layout/slider_layout.xml",
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/Material_ContextMenu_Library/build/intermediates/exploded-aar/Shopsy/ViewPager_AutoSlider_Library/unspecified/res/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/Material_ContextMenu_Library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/Material_ContextMenu_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/Material_ContextMenu_Library/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_item_material.xml",

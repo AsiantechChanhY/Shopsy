@@ -80,15 +80,15 @@
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_button_grey_normal.9.png"
     },
     {
-        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png",
-        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_tooltip_blue_xout.png"
+        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_picker_magnifier.png",
+        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_picker_magnifier.png"
     },
     {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_blue_normal.9.png",
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_button_blue_normal.9.png"
     },
     {
-        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_picker_magnifier.png",
-        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_picker_magnifier.png"
+        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png",
+        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_tooltip_blue_xout.png"
     }
 ]

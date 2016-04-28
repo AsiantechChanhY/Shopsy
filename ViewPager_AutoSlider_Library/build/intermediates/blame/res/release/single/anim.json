@@ -20,16 +20,16 @@
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/ViewPager_AutoSlider_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/ViewPager_AutoSlider_Library/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
-        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/ViewPager_AutoSlider_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_out.xml"
-    },
-    {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/ViewPager_AutoSlider_Library/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/ViewPager_AutoSlider_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/ViewPager_AutoSlider_Library/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/ViewPager_AutoSlider_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/ViewPager_AutoSlider_Library/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/ViewPager_AutoSlider_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/ViewPager_AutoSlider_Library/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",

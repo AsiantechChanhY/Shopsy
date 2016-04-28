@@ -12,12 +12,12 @@
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/bundles/debug/res/layout/com_facebook_picker_search_box.xml"
     },
     {
-        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_login_activity_layout.xml",
-        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/bundles/debug/res/layout/com_facebook_login_activity_layout.xml"
-    },
-    {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_placepickerfragment.xml",
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/bundles/debug/res/layout/com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_login_activity_layout.xml",
+        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/bundles/debug/res/layout/com_facebook_login_activity_layout.xml"
     },
     {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/FacebookSDK_Shopsy/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_tooltip_bubble.xml",
