@@ -127,4 +127,37 @@
     <string name="advance_settings_label_bandwidth_cancel">CANCEL</string>
     <string name="advance_settings_label_bandwidth_okay">Okay</string>
 
+    <!-- All Shop Product -->
+    <string name="allshop_product_favourite">Favorite</string>
+    <string name="allshop_product_contact">Contact</string>
+    <string name="allshop_product_shopinfo">Shop Info</string>
+
+    <!-- cart Add coupon Dialog -->
+    <string name="cart_label_coupon_insert">Insert Coupon Code</string>
+    <string name="cart_label_coupon_apply">Apply</string>
+    <string name="cart_label_coupon_cancel">Cancel</string>
+    <string name="cart_label_coupon_remove">Remove</string>
+
+    <!-- cart Delete shop Dialog -->
+    <string name="cart_label_dialog_text">Remove this item from cart?</string>
+    <string name="cart_label_dialog_shopdelete">Remove this shop and all items from cart?</string>
+    <string name="cart_label_dialog_no">No</string>
+    <string name="cart_label_dialog_yes">Yes</string>
+
+    <!-- cart header layout -->
+    <string name="cart_label_header">Your Cart</string>
+
+    <!-- cart Page -->
+    <string name="cart_label_readytoship">Ready to ship in:</string>
+    <string name="cart_label_itemtotal">Item Total</string>
+    <string name="cart_label_shipping">Shipping</string>
+    <string name="cart_label_ordertotal">Order Total</string>
+    <string name="cart_label_checkout">CHECK OUT</string>
+    <string name="cart_label_howyou_will_pay">How You\'ll Pay</string>
+    <string name="cart_label_addcoupon_code">Add a coupon code</string>
+    <string name="cart_label_add_note">Add optional note to seller</string>
+    <string name="cart_label_quantity">Quantity</string>
+    <string name="label_cart_empty">Cart is Empty</string>
+
+
 </resources>
