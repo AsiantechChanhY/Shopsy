@@ -12,12 +12,12 @@
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png"
     },
     {
-        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png",
-        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png"
-    },
-    {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png",
         "source": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png"
     },
     {
         "merged": "/home/chanhy/Documents/duanshopsy/Shopsy/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png",

@@ -41,4 +41,50 @@
     <string name="activiy_tab_dispute_label">Dispute</string>
     <string name="activiy_tab_conversation_label">Conversation</string>
 
+    <!-- add_item1 -->
+    <string name="aboutitem"> ABOUT ITEM</string>
+    <string name="whomade"> Who made this item?</string>
+    <string name="idid"> I did</string>
+    <string name="another"> Another company or person</string>
+    <string name="amemberofmyshop"> A member of my shop</string>
+
+    <!-- add_item2 -->
+    <string name="what"> What is it?</string>
+    <string name="afinishedproduct"> A finished product</string>
+    <string name="asupplyortool"> A supply or tool</string>
+
+    <!-- add_item3 -->
+    <string name="whendid"> When did you make it?</string>
+    <string name="madetoordr"> Made To Order</string>
+
+    <!-- add_item-final -->
+    <string name="addphotos"> Add Photos</string>
+    <string name="conveytheshape"> Convey the shape,color,size and texture.Try to use natural light and include a great close up.</string>
+    <string name="itmtitle"> Item Title</string>
+    <string name="giveyourliting"> Give your listing a descriptive headline</string>
+    <string name="price">Price</string>
+    <string name="hundrd">$</string>
+    <string name="qunantity">Quantity</string>
+    <string name="one"> 1</string>
+    <string name="androidgoogle">android google ios phone mobile data computer.</string>
+    <string name="shipping">Shipping</string>
+    <string name="addashiping">add a shipping profile or create a new one.</string>
+    <string name="helpbuyers"> Help buyers to find your item</string>
+    <string name="usetheseoptional"> Use these optional fields to help buyers search for your item.</string>
+    <string name="addtags">Add Tags</string>
+    <string name="addupto">Add upto 13 tags.</string>
+    <string name="addmateril">Add Materials</string>
+    <string name="adduptometrial"> Add upto 13 materials used in your item.</string>
+    <string name="typeandcategories">Type and Categories</string>
+    <string name="finishdproduct">FINISHED PRODUCT</string>
+    <string name="madeeby">Made by </string>
+    <string name="me">me</string>
+    <string name="madetoorder">Made to Order</string>
+    <string name="accessories"> Accessories</string>
+    <string name="grater"> ></string>
+    <string name="child">child</string>
+    <string name="apron">Apron</string>
+    <string name="manage">MANAGE</string>
+    <string name="share">SHARE</string>
+
 </resources>
