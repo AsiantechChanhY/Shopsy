@@ -159,5 +159,17 @@
     <string name="cart_label_quantity">Quantity</string>
     <string name="label_cart_empty">Cart is Empty</string>
 
+    <!-- Category -->
+    <string name="cateroryheader_title">All Categories</string>
+    <string name="label_caterory_empty">No Categories Found</string>
+
+    <!-- conversation chat popup -->
+    <string name="chat_popup_label_title">New conversation with</string>
+    <string name="chat_popup_label_subject">Subject</string>
+    <string name="chat_popup_label_message">Message</string>
+    <string name="chat_popup_label_send">Send</string>
+    <string name="chat_popup_label_sending">Sending...</string>
+    <string name="chat_popup_label_send_successfully">Sent Successfully</string>
+
 
 </resources>
